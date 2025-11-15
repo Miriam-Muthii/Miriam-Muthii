@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a full-stack developer.<br>I'm looking to collaborate with teams working on large-scale projects.<br>I'm currently learning cybersecurity fundamentals and best practices.<br>Ask me about front-end and back-end development and my journey in learning cybersecurity.<br>I'm a coffee enthusiast and believe it fuels my coding sessions.
+Hi there👋, I'm Miriam Muthii, a full-stack software and AI developer based in Kenya. I build production-ready solutions that deliver meaningful insights and drive business impact across diverse sectors such as fintech, BPOs, and climate tech. I enjoy turning complex problems into scalable, user-focused applications using technologies like Angular, React, Python, Java, and Spring Boot. In the AI space, I work with large language models and frameworks like LangChain to create intelligent tools and workflows. Always curious and results-driven, I am open to opportunities worldwide where I can contribute, innovate, and help organizations leverage technology to achieve their goals
 
 
 ## 🌐 Socials:
